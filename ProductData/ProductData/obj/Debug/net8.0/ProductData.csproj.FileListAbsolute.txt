@@ -1,0 +1,14 @@
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\bin\Debug\net8.0\ProductData.exe
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\bin\Debug\net8.0\ProductData.deps.json
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\bin\Debug\net8.0\ProductData.runtimeconfig.json
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\bin\Debug\net8.0\ProductData.dll
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\bin\Debug\net8.0\ProductData.pdb
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.AssemblyInfoInputs.cache
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.AssemblyInfo.cs
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.dll
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\refint\ProductData.dll
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.pdb
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ProductData.genruntimeconfig.cache
+C:\Users\Aniket_Supriya\source\repos\ProductData\ProductData\obj\Debug\net8.0\ref\ProductData.dll
